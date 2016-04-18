@@ -1,4 +1,4 @@
-package com.forfinance.interview.test.service.util;
+package com.forfinance.interview.test.util;
 
 import java.sql.Timestamp;
 import java.time.LocalDateTime;
